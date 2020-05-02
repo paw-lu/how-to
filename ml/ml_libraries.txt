@@ -16,3 +16,8 @@ dtale
 category_encoders
 CatBoost
 statsmodels
+transformers
+pattern (https://github.com/clips/pattern)
+gensim
+spacy
+dowhy
