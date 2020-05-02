@@ -21,3 +21,4 @@ pattern (https://github.com/clips/pattern)
 gensim
 spacy
 dowhy
+prophet
